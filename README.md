@@ -4,7 +4,7 @@ Meu nome é Erica Yumi Onoue, mas uso mais o meu nome do meio, Yumi.
 
 Atualmente trabalho como auxiliar administrativo e estudo Ciência de Dados
 
-Então aqui você vai encontrar alguns dos projetos de Data Cience que já fiz e outros que estou fazendo.
+Então por aqui você vai encontrar alguns dos projetos de Data Science que já fiz e outros que estou fazendo.
 
 Você pode me encontrar nas seguintes redes sociais e no e-mail que vou deixar aqui:
 <div> 
