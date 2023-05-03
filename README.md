@@ -4,6 +4,12 @@ Meu nome é Erica Yumi Onoue, mas uso mais o meu nome do meio, Yumi.
 
 Atualmente estou estudando Ciência de Dados e estou deixando aqui alguns projetos de Data Science que já fiz e outros que estou fazendo.
 
+## Projetos
+[Fome Zero](https://github.com/YumiiOnoue/projeto_fome_zero)
+[Modelo Preditivo](https://github.com/YumiiOnoue/modelo_preditiva_tensorflow)
+[Análise Exploratória IMDB](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)
+
+## Contatos
 Você pode me encontrar nas seguintes redes sociais e no e-mail que vou deixar aqui:
 <div> 
  
