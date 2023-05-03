@@ -6,7 +6,9 @@ Atualmente estou estudando Ciência de Dados e estou deixando aqui alguns projet
 
 ## Projetos
 [Fome Zero](https://github.com/YumiiOnoue/projeto_fome_zero)
+
 [Modelo Preditivo](https://github.com/YumiiOnoue/modelo_preditiva_tensorflow)
+
 [Análise Exploratória IMDB](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)
 
 ## Contatos
