@@ -5,7 +5,7 @@ Meu nome é Erica Yumi Onoue, mas uso mais o meu nome do meio, Yumi.
 Atualmente estou estudando Ciência de Dados e estou deixando aqui alguns projetos de Data Science que já fiz e outros que estou fazendo.
 
 ## Projetos
-[Predição de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)
+[Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)
 
 Em progresso
 
