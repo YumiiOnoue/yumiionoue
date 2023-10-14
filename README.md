@@ -2,12 +2,25 @@
 
 Meu nome é Erica Yumi Onoue, mas uso mais o meu nome do meio, Yumi.
 
-Atualmente estou estudando Ciência de Dados e estou deixando aqui alguns projetos de Data Science que já fiz e outros que estou fazendo.
+Sou mestra em Economia pela UEM, com interesse em análise de dados, econometria e estatística. Atualmente, desempenho a função de auxiliar administrativo, onde atuo na área de atendimento ao cliente e na elaboração de relatórios gerenciais.
+
+Para enfrentar os desafios da minha profissão e alinhar meu interesse em análise de dados, estou empenhada em expandir meu conjunto de habilidades na área de Ciência de Dados. Atualmente, estou dedicando meu tempo ao estudo em linguagens de programação, como Python, ferramentas de visualização de dados e Machine Learning.
+
+Abaixo estão as minhas habilidades e os projetos que desenvolvi até o momento.
+
+## Habilidades
+
+Ferramentas analíticas: Python e SQL
+
+Ferramentas de desenvolvimento: Github, Git e SQLite3
+
+Visualização: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
+
 
 ## Projetos
 [Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)
 
-Em progresso
+Projeto em andamento. Esse projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja da Rossmann. Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor. 
 
 
 [Fome Zero](https://github.com/YumiiOnoue/projeto_fome_zero)
@@ -32,6 +45,6 @@ Você pode me encontrar nas seguintes redes sociais e no e-mail que vou deixar a
  
   <a href="https://instagram.com/yumiionoue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericayumionoue" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:yumi_erica@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href = "mailto:eyumiio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
