@@ -4,7 +4,7 @@ Meu nome é Erica Yumi Onoue, mas uso mais o meu nome do meio, Yumi.
 
 Sou mestra em Economia pela UEM, com interesse em análise de dados, econometria e estatística. Atualmente, desempenho a função de auxiliar administrativo, onde atuo na área de atendimento ao cliente e na elaboração de relatórios gerenciais.
 
-Para enfrentar os desafios da minha profissão e alinhar meu interesse em análise de dados, estou empenhada em expandir meu conjunto de habilidades na área de Ciência de Dados. Atualmente, estou dedicando meu tempo ao estudo em linguagens de programação, como Python, ferramentas de visualização de dados e Machine Learning.
+Para enfrentar os desafios da minha profissão e alinhar meu interesse em análise de dados, estou empenhada em expandir meu conjunto de habilidades na área de Dados. Atualmente, estou dedicando meu tempo ao estudo em linguagens de programação, como Python, ferramentas de visualização de dados e Machine Learning.
 
 Abaixo estão as minhas habilidades e os projetos que desenvolvi até o momento.
 
