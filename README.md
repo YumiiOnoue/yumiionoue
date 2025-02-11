@@ -37,7 +37,7 @@ Este é um mini-projeto elaborado no curso de Python da Data Science Academy. Os
 
 [Análise Exploratória IMDB](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)
 
-Este projeto é uma análise exploratório dos dados do IMDb. Para obtenção dos dados foi utilizado o SQLite e para visualização dos resultados foram utilizados o matplotlib e seaborn.
+Este projeto tem como objetivo realizar uma análise exploratório dos dados do IMDb. Para obtenção dos dados foi utilizado o SQLite e para visualização dos resultados foram utilizados o matplotlib e seaborn. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
 
 ## Contatos
 Você pode me encontrar nas seguintes redes sociais e no e-mail que vou deixar aqui:
