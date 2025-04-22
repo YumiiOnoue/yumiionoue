@@ -20,10 +20,10 @@ Visualização: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
 ## Projetos
 [Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)
 
-Projeto em andamento. Esse projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja da Rossmann. Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor. 
+Esse projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja da Rossmann. Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor. 
 
 
-[Fome Zero](https://github.com/YumiiOnoue/projeto_fome_zero)
+[Análise Exploratória de um Marketplace](https://github.com/YumiiOnoue/projeto_fome_zero)
 
 Esse projeto teve como objetivo identificar pontos chaves da empresa para que o CEO possa entender melhor o negócio e conseguir tomar as melhores decisões estratégicas. 
 Para isso, utilizei os conceitos de Programação em Python, manipulação de dados, pensamento estratégico e lógica de negócio. Também utilizei ferramentas de desenvolvimento web como o Streamlit e Github para desenvolver um painel gerencial com as principais métricas da empresa.
@@ -35,7 +35,7 @@ O resultado final do projeto foi um dashboard em Cloud, disponível no link anex
 Este é um mini-projeto elaborado no curso de Python da Data Science Academy. Os dados utilizados nesse mini-projeto foram coletadas pelo U.S Census Service e contém informações sobre as moradias na área de Boston. Para a análise dos dados foi utilizado a Regressão Linear, considerando RM (número médio de quartos por habitação) como sendo a variável independente e MEDV (valor médio de casas ocupadas) a variável dependente. Os dados também foram divididos na proporção de 80/20 para treino e teste.
 
 
-[Análise Exploratória IMDB](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)
+[Análise Exploratória IMDb](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)
 
 Este projeto tem como objetivo realizar uma análise exploratório dos dados do IMDb. Para obtenção dos dados foi utilizado o SQLite e para visualização dos resultados foram utilizados o matplotlib e seaborn. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
 
