@@ -39,6 +39,19 @@ Este é um mini-projeto elaborado no curso de Python da Data Science Academy. Os
 
 Este projeto tem como objetivo realizar uma análise exploratório dos dados do IMDb. Para obtenção dos dados foi utilizado o SQLite e para visualização dos resultados foram utilizados o matplotlib e seaborn. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
 
+## Cursos e Certificados
+[Análise de Dados: Meus primeiros passos em python!](https://euprogramo.thinkific.com/certificates/til5hiwht9) - ProgaMaria. Maio 2025
+
+[SQL do básico ao avançado](https://drive.google.com/file/d/1ADLULh1qbYPolf3K3pLgEEibwJTS1Aq6/view?usp=sharing) - Comunidade DS. Outubro 2023
+
+[FTC - Analisando Dados com Python](https://e-certificado.com/e?c=1698554AF2B08F2311261830) - Comunidade DS. Maio 2023
+
+[Git para DS](https://e-certificado.com/e?c=1711988A33C74D4411261830) -  Comunidade DS. Maio 2023
+
+[Python Fundamentos Para Análise de Dados 3.0](https://drive.google.com/file/d/14XukkEHdU3XxLgDjvHBCGH67Dko8li2E/view?usp=sharing) - Data Science Academy. Janeiro 2023
+
+[Microsoft Power BI para Data Science, versão 2.0](https://drive.google.com/file/d/1tNgatJzTNR04tyIPpo67vRWwolr5NQiF/view?usp=sharing) - Data Science Academy. Abril 2021
+
 ## Contatos
 Você pode me encontrar nas seguintes redes sociais e no e-mail que vou deixar aqui:
 <div> 
