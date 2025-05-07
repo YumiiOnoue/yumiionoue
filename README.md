@@ -1,6 +1,6 @@
 ## Oie, tudo bem? 😄
 
-Olá! Eu sou Erica Yumi Onoue, mas costumo usar Yumi no dia a dia.
+Eu sou Erica Yumi Onoue, mas costumo usar Yumi no dia a dia.
 
 Atualmente estou em transição de carreira para a área de Dados, trazendo comigo uma sólida formação acadêmica como mestre em Economia pela UEM e um forte interesse em análise de dados, econometria e estatística.
 Tenho experiência como auxiliar administrativo, o que me proporcionou vivência com organização, atenção aos detalhes e resolução de problemas.
