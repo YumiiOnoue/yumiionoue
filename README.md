@@ -10,14 +10,19 @@ Abaixo, você encontrará um resumo das minhas habilidades e alguns dos projetos
 
 ## Habilidades
 
-Ferramentas analíticas: Python e SQL
+Análise e Manipulação de Dados: Python (pandas, numpy), SQL
 
-Ferramentas de desenvolvimento: Github, Git e SQLite3
+Visualização: Power BI, Plotly, Seaborn, Matplotlib
 
-Visualização: Matplotlib, Seaborn, Plotly, Streamlit, Power BI
+Banco de Dados: SQLite, PostgreSQL (básico)
+
+Versionamento e Colaboração: Git, GitHub
+
+Ambientes: Jupyter Notebook, VS Code
 
 
 ## Projetos
+
 [Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)
 
 Esse projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja da Rossmann. Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor. 
@@ -40,6 +45,7 @@ Este é um mini-projeto elaborado no curso de Python da Data Science Academy. Os
 Este projeto tem como objetivo realizar uma análise exploratório dos dados do IMDb. Para obtenção dos dados foi utilizado o SQLite e para visualização dos resultados foram utilizados o matplotlib e seaborn. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
 
 ## Cursos e Certificados
+
 [Análise de Dados: Meus primeiros passos em python!](https://euprogramo.thinkific.com/certificates/til5hiwht9) - ProgaMaria. Maio 2025
 
 [SQL do básico ao avançado](https://drive.google.com/file/d/1ADLULh1qbYPolf3K3pLgEEibwJTS1Aq6/view?usp=sharing) - Comunidade DS. Outubro 2023
@@ -53,6 +59,7 @@ Este projeto tem como objetivo realizar uma análise exploratório dos dados do 
 [Microsoft Power BI para Data Science, versão 2.0](https://drive.google.com/file/d/1tNgatJzTNR04tyIPpo67vRWwolr5NQiF/view?usp=sharing) - Data Science Academy. Abril 2021
 
 ## Contatos
+
 Você pode me encontrar nas seguintes redes sociais e no e-mail que vou deixar aqui:
 <div> 
  
