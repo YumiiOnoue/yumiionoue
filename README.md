@@ -23,6 +23,10 @@ Ambientes: Jupyter Notebook, VS Code
 
 ## Projetos
 
+[Painel de Vendas da Cafeteria](https://github.com/YumiiOnoue/Coffee_shop_sales_EDA)
+
+Este projeto tem como objetivo criar um painel interativo no Power BI para analisar as vendas da cafeteria. Para isso, foram desenvolvidos três painéis: o primeiro com foco no desempenho da cafeteria nos seis primeiros meses de 2023, apresentando uma visão geral com os principais KPIs; o segundo, com uma visão por loja, para fins de comparação; e, por fim, um painel voltado para os produtos que merecem maior atenção e investimento.
+
 [Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)
 
 Esse projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja da Rossmann. Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor. 
