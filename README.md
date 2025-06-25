@@ -27,25 +27,35 @@ Abaixo, você encontrará um resumo das minhas habilidades e alguns dos projetos
 
 **[Painel de Vendas da Cafeteria](https://github.com/YumiiOnoue/Coffee_shop_sales_EDA)**
 
-Este projeto tem como objetivo criar um painel interativo no Power BI para analisar as vendas da cafeteria. Para isso, foram desenvolvidos três painéis: o primeiro com foco no desempenho da cafeteria nos seis primeiros meses de 2023, apresentando uma visão geral com os principais KPIs; o segundo, com uma visão por loja, para fins de comparação; e, por fim, um painel voltado para os produtos que merecem maior atenção e investimento.
+Projeto desenvolvido em Power BI com o objetivo de analisar o desempenho de vendas de uma cafeteria durante os seis primeiros meses de 2023. Foram criados três painéis interativos:
+* Visão Geral: apresenta os principais KPIs da empresa;
+* Análise por Loja: compara o desempenho entre unidades;
+* Análise de Produtos: identifica itens com maior potencial de investimento e atenção.
+  
+O painel facilita a tomada de decisões estratégicas de forma visual e prática.
 
 **[Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)**
 
-Esse projeto tem como objetivo obter uma previsão mais precisa das vendas de cada loja da Rossmann. Para selecionar as melhores variáveis foi utilizado o Boruta e com as features selecionados foram aplicados 6 tipos de modelos: average model, Linear Regression Model, Linear Regression Regularized Model - Lasso, Random Forest Regressor e o XGBoost Regressor. 
+Projeto de machine learning voltado para prever o volume de vendas das lojas da rede Rossmann. Após a seleção das variáveis mais relevantes com o algoritmo Boruta, foram testados e comparados seis modelos preditivos:
+* Média histórica (baseline)
+* Regressão Linear
+* Regressão Linear com regularização (Lasso)
+* Random Forest Regressor
+* XGBoost Regressor
+  
+A avaliação dos modelos teve como objetivo identificar a abordagem com melhor desempenho preditivo. 
 
 **[Análise Exploratória de um Marketplace](https://github.com/YumiiOnoue/projeto_fome_zero)**
 
-Esse projeto teve como objetivo identificar pontos chaves da empresa para que o CEO possa entender melhor o negócio e conseguir tomar as melhores decisões estratégicas. 
-Para isso, utilizei os conceitos de Programação em Python, manipulação de dados, pensamento estratégico e lógica de negócio. Também utilizei ferramentas de desenvolvimento web como o Streamlit e Github para desenvolver um painel gerencial com as principais métricas da empresa.
-O resultado final do projeto foi um dashboard em Cloud, disponível no link anexado no projeto.
+Este projeto visa oferecer ao CEO de um marketplace uma visão estratégica do negócio a partir de uma análise exploratória de dados. Utilizando Python, manipulação de dados e lógica de negócios, foi criado um dashboard interativo com Streamlit, hospedado em nuvem e versionado com GitHub. O painel apresenta métricas essenciais para suporte à tomada de decisão.
 
 **[Modelo Preditivo usando TensorFlow](https://github.com/YumiiOnoue/modelo_preditiva_tensorflow)**
 
-Este é um mini-projeto elaborado no curso de Python da Data Science Academy. Os dados utilizados nesse mini-projeto foram coletadas pelo U.S Census Service e contém informações sobre as moradias na área de Boston. Para a análise dos dados foi utilizado a Regressão Linear, considerando RM (número médio de quartos por habitação) como sendo a variável independente e MEDV (valor médio de casas ocupadas) a variável dependente. Os dados também foram divididos na proporção de 80/20 para treino e teste.
+Mini-projeto desenvolvido no curso da Data Science Academy utilizando dados do Censo dos EUA sobre habitações em Boston. Aplicou-se Regressão Linear com TensorFlow para prever o valor médio das casas (MEDV), tendo como variável preditora o número médio de quartos por residência (RM). Os dados foram divididos em 80% para treino e 20% para teste, com análise dos resultados baseada em métricas de erro.
 
 **[Análise Exploratória IMDb](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)**
 
-Este projeto tem como objetivo realizar uma análise exploratório dos dados do IMDb. Para obtenção dos dados foi utilizado o SQLite e para visualização dos resultados foram utilizados o matplotlib e seaborn. A análise explora diversas variáveis relacionadas a filmes, incluindo notas, gêneros e ano de lançamento, utilizando bibliotecas do ecossistema Python para manipulação e visualização de dados.
+Projeto de análise exploratória com foco em dados da base IMDb, utilizando SQLite para consulta e bibliotecas Python como Pandas, Matplotlib e Seaborn para visualização. A análise aborda variáveis como avaliação dos filmes, gêneros e ano de lançamento, buscando identificar padrões e insights relevantes no universo cinematográfico.
 
 ## Cursos e Certificados
 
