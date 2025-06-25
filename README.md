@@ -34,17 +34,6 @@ Projeto desenvolvido em Power BI com o objetivo de analisar o desempenho de vend
   
 O painel facilita a tomada de decisões estratégicas de forma visual e prática.
 
-**[Previsão de vendas Rossmann](https://github.com/YumiiOnoue/sales_prediction_Rossmann)**
-
-Projeto de machine learning voltado para prever o volume de vendas das lojas da rede Rossmann. Após a seleção das variáveis mais relevantes com o algoritmo Boruta, foram testados e comparados seis modelos preditivos:
-* Média histórica (baseline)
-* Regressão Linear
-* Regressão Linear com regularização (Lasso)
-* Random Forest Regressor
-* XGBoost Regressor
-  
-A avaliação dos modelos teve como objetivo identificar a abordagem com melhor desempenho preditivo. 
-
 **[Análise Exploratória de um Marketplace](https://github.com/YumiiOnoue/projeto_fome_zero)**
 
 Este projeto visa oferecer ao CEO de um marketplace uma visão estratégica do negócio a partir de uma análise exploratória de dados. Utilizando Python, manipulação de dados e lógica de negócios, foi criado um dashboard interativo com Streamlit, hospedado em nuvem e versionado com GitHub. O painel apresenta métricas essenciais para suporte à tomada de decisão.
