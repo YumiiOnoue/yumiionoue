@@ -13,9 +13,11 @@ Abaixo, você encontrará um resumo das minhas habilidades e alguns dos projetos
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -24,15 +26,17 @@ Abaixo, você encontrará um resumo das minhas habilidades e alguns dos projetos
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Projetos
+**[Análise Climática e de Qualidade do Ar: Um Estudo com SQL](https://github.com/YumiiOnoue/consultaSQL_clima)**
+
+O principal objetivo deste projeto é realizar uma análise descritiva e exploratória de um conjunto de dados de clima e qualidade do ar. A análise visa identificar padrões e tendências nas condições ambientais de 10 cidades brasileiras ao longo de um período de 8 dias, utilizando consultas SQL.
+
+**[Teste A/B em jogos de celular](https://github.com/YumiiOnoue/teste_ab_game)**
+
+O projeto tem como objetivo principal realizar um teste A/B para analisar o impacto da mudança do primeiro "gate" do jogo Cookie Cats (do nível 30 para o nível 40) na métrica de retenção de jogadores.
 
 **[Painel de Vendas da Cafeteria](https://github.com/YumiiOnoue/Coffee_shop_sales_EDA)**
 
-Projeto desenvolvido em Power BI com o objetivo de analisar o desempenho de vendas de uma cafeteria durante os seis primeiros meses de 2023. Foram criados três painéis interativos:
-* Visão Geral: apresenta os principais KPIs da empresa;
-* Análise por Loja: compara o desempenho entre unidades;
-* Análise de Produtos: identifica itens com maior potencial de investimento e atenção.
-  
-O painel facilita a tomada de decisões estratégicas de forma visual e prática.
+Projeto desenvolvido em Power BI com o objetivo de analisar o desempenho de vendas de uma cafeteria durante os seis primeiros meses de 2023. O painel visa facilitar a tomada de decisões estratégicas de forma visual e prática.
 
 **[Análise Exploratória de um Marketplace](https://github.com/YumiiOnoue/projeto_fome_zero)**
 
@@ -48,6 +52,7 @@ Projeto de análise exploratória com foco em dados da base IMDb, utilizando SQL
 
 ## Cursos e Certificados
 
+* [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/4YTLFOJ52CNI?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) - Google. Julho 2025
 * [Análise de Dados: Meus primeiros passos em python!](https://euprogramo.thinkific.com/certificates/til5hiwht9) - ProgaMaria. Maio 2025
 * [SQL do básico ao avançado](https://drive.google.com/file/d/1ADLULh1qbYPolf3K3pLgEEibwJTS1Aq6/view?usp=sharing) - Comunidade DS. Outubro 2023
 * [FTC - Analisando Dados com Python](https://e-certificado.com/e?c=1698554AF2B08F2311261830) - Comunidade DS. Maio 2023
