@@ -2,7 +2,7 @@
 
 Eu sou Erica Yumi Onoue, mas costumo usar Yumi no dia a dia.
 
-Atualmente estou em transição de carreira para a área de Dados, trazendo comigo uma sólida formação acadêmica como mestre em Economia pela UEM e um forte interesse em análise de dados, econometria e estatística.
+Atualmente sou estudante da Pós Tech - Pós Graduação em Data Anlytics na FIAP e estou em transição de carreira para a área de Dados, trazendo comigo uma sólida formação acadêmica como mestre em Economia pela UEM e um forte interesse em análise de dados, econometria e estatística.
 Tenho experiência como auxiliar administrativo, o que me proporcionou vivência com organização, atenção aos detalhes e resolução de problemas.
 Tenho me dedicado a desenvolver as competências essenciais para atuar como Analista de Dados, com foco em Análise e Manipulação de Dados, Python, SQL, Git, GitHub, além de ferramentas de visualização de dados e Machine Learning.
 
