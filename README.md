@@ -2,7 +2,7 @@
 
 Eu sou Erica Yumi Onoue, mas costumo usar Yumi no dia a dia.
 
-Atualmente sou estudante da Pós Tech - Pós Graduação em Data Anlytics na FIAP e estou em transição de carreira para a área de Dados, trazendo comigo uma sólida formação acadêmica como mestre em Economia pela UEM e um forte interesse em análise de dados, econometria e estatística.
+Atualmente, sou estudante da Pós Tech - Pós Graduação em Data Analytics na FIAP e estou em transição de carreira para a área de Dados, trazendo comigo uma sólida formação acadêmica como mestre em Economia pela UEM e um forte interesse em análise de dados, econometria e estatística.
 Tenho experiência como auxiliar administrativo, o que me proporcionou vivência com organização, atenção aos detalhes e resolução de problemas.
 Tenho me dedicado a desenvolver as competências essenciais para atuar como Analista de Dados, com foco em Análise e Manipulação de Dados, Python, SQL, Git, GitHub, além de ferramentas de visualização de dados e Machine Learning.
 
@@ -49,16 +49,6 @@ Mini-projeto desenvolvido no curso da Data Science Academy utilizando dados do C
 **[Análise Exploratória IMDb](https://github.com/YumiiOnoue/IMDB_ExploratoryAnalysis)**
 
 Projeto de análise exploratória com foco em dados da base IMDb, utilizando SQLite para consulta e bibliotecas Python como Pandas, Matplotlib e Seaborn para visualização. A análise aborda variáveis como avaliação dos filmes, gêneros e ano de lançamento, buscando identificar padrões e insights relevantes no universo cinematográfico.
-
-## Cursos e Certificados
-
-* [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/4YTLFOJ52CNI?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) - Google. Julho 2025
-* [Análise de Dados: Meus primeiros passos em python!](https://euprogramo.thinkific.com/certificates/til5hiwht9) - ProgaMaria. Maio 2025
-* [SQL do básico ao avançado](https://drive.google.com/file/d/1ADLULh1qbYPolf3K3pLgEEibwJTS1Aq6/view?usp=sharing) - Comunidade DS. Outubro 2023
-* [FTC - Analisando Dados com Python](https://e-certificado.com/e?c=1698554AF2B08F2311261830) - Comunidade DS. Maio 2023
-* [Git para DS](https://e-certificado.com/e?c=1711988A33C74D4411261830) -  Comunidade DS. Maio 2023
-* [Python Fundamentos Para Análise de Dados 3.0](https://drive.google.com/file/d/14XukkEHdU3XxLgDjvHBCGH67Dko8li2E/view?usp=sharing) - Data Science Academy. Janeiro 2023
-* [Microsoft Power BI para Data Science, versão 2.0](https://drive.google.com/file/d/1tNgatJzTNR04tyIPpo67vRWwolr5NQiF/view?usp=sharing) - Data Science Academy. Abril 2021
 
 ## Contatos
 
